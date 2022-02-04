@@ -8,7 +8,7 @@ public class MainRunner {
         System.out.println("Test commit");
         System.out.println("test pull");
         
-
+        System.out.println("test merge");
 
     }
 }
